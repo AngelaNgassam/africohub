@@ -4,4 +4,7 @@ Plateforme collaborative d'apprentissage du code pour les jeunes développeurs a
 ## Fonctionnalités
 - Cours en ligne
 - Exercices pratiques
-- Forum d'entraide communautaire.
+- Forum d'entraide
+- Forum d'entraide avec système de questions/réponses
+- Messagerie instantanée entre apprenants
+
